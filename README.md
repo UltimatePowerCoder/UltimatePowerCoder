@@ -20,7 +20,7 @@
 - Learn and apply modern technologies and best practices
 - Contribute to exciting and innovative projects
 
-Thanks for visiting my profile! I’m looking forward to collaboration and new connections in the world of web development. 😊
+Thanks for visiting my profile! I’m looking forward to collaboration and new connections in the world of web development.
 
 ---
 
@@ -46,4 +46,4 @@ Thanks for visiting my profile! I’m looking forward to collaboration and new c
 - Учиться и применять современные технологии и лучшие практики
 - Вносить свой вклад в интересные и инновационные проекты
 
-Спасибо, что заглянули на мой профиль! Буду рад/а сотрудничеству и новым знакомствам в мире веб-разработки. 😊
+Спасибо, что заглянули на мой профиль! Буду рад/а сотрудничеству и новым знакомствам в мире веб-разработки.

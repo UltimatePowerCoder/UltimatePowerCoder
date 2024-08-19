@@ -1,4 +1,4 @@
-👋 Hi there! I’m Leonid Korshunov, front-end developer passionate about creating beautiful and interactive web applications.
+👋 Hi there! I’m Leonid, front-end developer passionate about creating beautiful and interactive web applications.
 
 🚀 **About Me:**
 
@@ -24,7 +24,7 @@ Thanks for visiting my profile! I’m looking forward to collaboration and new c
 
 ---
 
-👋 Привет! Я Леонид Коршунов —  фронтенд-разработчик с увлечением к созданию красивых и интерактивных веб-приложений.
+👋 Привет! Я Леонид —  фронтенд-разработчик с увлечением к созданию красивых и интерактивных веб-приложений.
 
 🚀 **Обо мне:**
 
